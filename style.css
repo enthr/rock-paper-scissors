@@ -1,0 +1,42 @@
+html{
+    font-size: 1.2em;
+    font-family: monospace;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    color: #ffffff;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    border: 0.1em dotted #0000ff;
+    margin: 1em;
+    padding: 1em;
+}
+
+button{
+    color: #ffff00;
+    background-color: #808080;
+    margin: 1em;
+    padding: 2em;
+    font-size: 1em;
+    font-family: monospace;
+    border: 0.2em solid #0000ff;
+    border-radius: 1.2em;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+    padding: 1em;
+}
+
+
+
+
+
